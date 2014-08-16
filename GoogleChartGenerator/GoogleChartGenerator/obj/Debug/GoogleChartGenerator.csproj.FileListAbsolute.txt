@@ -8,3 +8,9 @@ C:\FAL\GoogleChartGenerator\GoogleChartGenerator\bin\GoogleChartGenerator.pdb
 C:\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\ResolveAssemblyReference.cache
 C:\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\GoogleChartGenerator.dll
 C:\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\GoogleChartGenerator.pdb
+C:\Working\FAL\GoogleChartGenerator\GoogleChartGenerator\bin\GoogleChartGenerator.dll.config
+C:\Working\FAL\GoogleChartGenerator\GoogleChartGenerator\bin\GoogleChartGenerator.dll
+C:\Working\FAL\GoogleChartGenerator\GoogleChartGenerator\bin\GoogleChartGenerator.pdb
+C:\Working\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\GoogleChartGenerator.csprojResolveAssemblyReference.cache
+C:\Working\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\GoogleChartGenerator.dll
+C:\Working\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\GoogleChartGenerator.pdb

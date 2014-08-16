@@ -7,3 +7,9 @@ C:\Users\Frederic\Eigene Projekte\FAL.util\PPP\PPPWeb\PPPWeb\bin\PPPWeb.dll
 C:\Users\Frederic\Eigene Projekte\FAL.util\PPP\PPPWeb\PPPWeb\bin\PPPWeb.pdb
 C:\Users\Frederic\Eigene Projekte\FAL.util\PPP\PPPWeb\PPPWeb\obj\Debug\PPPWeb.dll
 C:\Users\Frederic\Eigene Projekte\FAL.util\PPP\PPPWeb\PPPWeb\obj\Debug\PPPWeb.pdb
+C:\Working\FAL\PPP\PPPWeb\PPPWeb\bin\PPPWeb.dll.config
+C:\Working\FAL\PPP\PPPWeb\PPPWeb\bin\PPPWeb.dll
+C:\Working\FAL\PPP\PPPWeb\PPPWeb\bin\PPPWeb.pdb
+C:\Working\FAL\PPP\PPPWeb\PPPWeb\obj\Debug\PPPWeb.csprojResolveAssemblyReference.cache
+C:\Working\FAL\PPP\PPPWeb\PPPWeb\obj\Debug\PPPWeb.dll
+C:\Working\FAL\PPP\PPPWeb\PPPWeb\obj\Debug\PPPWeb.pdb

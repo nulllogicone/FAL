@@ -5,3 +5,11 @@ C:\FAL\Annotation\Annotation\obj\Debug\Annotation.dll
 C:\FAL\Annotation\Annotation\obj\Debug\Annotation.pdb
 C:\FAL\Annotation\Annotation\bin\GoogleChartGenerator.dll
 C:\FAL\Annotation\Annotation\bin\GoogleChartGenerator.pdb
+C:\Working\FAL\Annotation\Annotation\obj\Debug\Annotation.csprojResolveAssemblyReference.cache
+C:\Working\FAL\Annotation\Annotation\obj\Debug\Annotation.dll
+C:\Working\FAL\Annotation\Annotation\obj\Debug\Annotation.pdb
+C:\Working\FAL\Annotation\Annotation\bin\Annotation.dll.config
+C:\Working\FAL\Annotation\Annotation\bin\Annotation.dll
+C:\Working\FAL\Annotation\Annotation\bin\Annotation.pdb
+C:\Working\FAL\Annotation\Annotation\bin\GoogleChartGenerator.dll
+C:\Working\FAL\Annotation\Annotation\bin\GoogleChartGenerator.pdb

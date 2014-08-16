@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Annotation", "Annotation\Annotation.csproj", "{DA8169AE-E70B-4E90-9C02-964BB21B02E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleChartGenerator", "..\GoogleChartGenerator\GoogleChartGenerator\GoogleChartGenerator.csproj", "{29E3104C-FD84-4480-9342-6FAEECC9F9FB}"
