@@ -1,0 +1,5 @@
+C:\FAL\SqlRepository\SqlRepository\bin\SqlRepository.dll
+C:\FAL\SqlRepository\SqlRepository\bin\SqlRepository.pdb
+C:\FAL\SqlRepository\SqlRepository\obj\Debug\ResolveAssemblyReference.cache
+C:\FAL\SqlRepository\SqlRepository\obj\Debug\SqlRepository.dll
+C:\FAL\SqlRepository\SqlRepository\obj\Debug\SqlRepository.pdb

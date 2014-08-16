@@ -1,0 +1,5 @@
+C:\FAL\GoogleChartGenerator\GoogleChartGenerator\bin\GoogleChartGenerator.dll
+C:\FAL\GoogleChartGenerator\GoogleChartGenerator\bin\GoogleChartGenerator.pdb
+C:\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Release\ResolveAssemblyReference.cache
+C:\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Release\GoogleChartGenerator.dll
+C:\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Release\GoogleChartGenerator.pdb

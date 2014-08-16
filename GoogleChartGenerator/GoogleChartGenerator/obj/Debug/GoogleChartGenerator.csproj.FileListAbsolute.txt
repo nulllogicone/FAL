@@ -1,0 +1,10 @@
+C:\Users\Frederic\Documents\Visual Studio 2008\Projects\GoogleChartGenerator\GoogleChartGenerator\bin\GoogleChartGenerator.dll
+C:\Users\Frederic\Documents\Visual Studio 2008\Projects\GoogleChartGenerator\GoogleChartGenerator\bin\GoogleChartGenerator.pdb
+C:\Users\Frederic\Documents\Visual Studio 2008\Projects\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Frederic\Documents\Visual Studio 2008\Projects\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\GoogleChartGenerator.dll
+C:\Users\Frederic\Documents\Visual Studio 2008\Projects\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\GoogleChartGenerator.pdb
+C:\FAL\GoogleChartGenerator\GoogleChartGenerator\bin\GoogleChartGenerator.dll
+C:\FAL\GoogleChartGenerator\GoogleChartGenerator\bin\GoogleChartGenerator.pdb
+C:\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\GoogleChartGenerator.dll
+C:\FAL\GoogleChartGenerator\GoogleChartGenerator\obj\Debug\GoogleChartGenerator.pdb

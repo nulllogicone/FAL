@@ -1,0 +1,82 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:ItemInsertControl.xaml.cs" caret="985" fromTop="22" />
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:App.Config" caret="0" fromTop="0" />
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:OliWorker.Designer.cs" caret="1153" fromTop="13" />
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:MainWindow.xaml.cs" caret="726" fromTop="11" />
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:MainWindow.xaml" caret="1237" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:MainWindow.xaml.cs" caret="885" fromTop="16" />
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:MainWindow.xaml.cs" caret="1053" fromTop="16" />
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:ItemInsertControl.xaml.cs" caret="985" fromTop="22" />
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:MainWindow.xaml" caret="237" fromTop="3" />
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:MainWindow.xaml.cs" caret="726" fromTop="11" />
+      <File id="3B48F196-24AB-4A1A-99BD-32DCB0420760/f:MainWindow.xaml" caret="1237" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="label1" priority="0" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="WorkItem`0" priority="1" />
+      <Item value="new" priority="4" />
+      <Item value="WorkItem" priority="1" />
+      <Item value="wi" priority="1" />
+      <Item value="OliWorkerContainer`0" priority="1" />
+      <Item value="OliWorkerContainer" priority="1" />
+      <Item value="db" priority="1" />
+      <Item value="OliWorker" priority="1" />
+      <Item value="oc" priority="2" />
+      <Item value="var" priority="0" />
+      <Item value="listBox1" priority="0" />
+      <Item value="wis" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="select" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OliWorker.WorkItem">
+      <Item value="created" priority="0" />
+      <Item value="description" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OliWorker.OliWorkerContainer">
+      <Item value="AddToWorkItem`0" priority="0" />
+      <Item value="SaveChanges`0" priority="0" />
+      <Item value="WorkItem" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectSet`1">
+      <Item value="Select`0" priority="0" />
+      <Item value="All`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="ItemsSource" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

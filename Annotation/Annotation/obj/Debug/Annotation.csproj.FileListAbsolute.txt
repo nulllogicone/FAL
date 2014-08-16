@@ -1,0 +1,7 @@
+C:\FAL\Annotation\Annotation\bin\Annotation.dll
+C:\FAL\Annotation\Annotation\bin\Annotation.pdb
+C:\FAL\Annotation\Annotation\obj\Debug\ResolveAssemblyReference.cache
+C:\FAL\Annotation\Annotation\obj\Debug\Annotation.dll
+C:\FAL\Annotation\Annotation\obj\Debug\Annotation.pdb
+C:\FAL\Annotation\Annotation\bin\GoogleChartGenerator.dll
+C:\FAL\Annotation\Annotation\bin\GoogleChartGenerator.pdb

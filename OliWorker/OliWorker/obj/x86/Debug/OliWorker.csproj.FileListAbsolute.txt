@@ -1,0 +1,16 @@
+C:\FAL\OliWorker\OliWorker\bin\Debug\OliWorker.exe
+C:\FAL\OliWorker\OliWorker\bin\Debug\OliWorker.pdb
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\MainWindow.baml
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\MainWindow.g.cs
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\App.g.cs
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\OliWorker_MarkupCompile.cache
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\OliWorker.g.resources
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\OliWorker.Properties.Resources.resources
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\OliWorker.exe
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\OliWorker.pdb
+C:\FAL\OliWorker\OliWorker\bin\Debug\OliWorker.exe.config
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\ItemInsertControl.baml
+C:\FAL\OliWorker\OliWorker\obj\x86\Debug\ItemInsertControl.g.cs

@@ -1,0 +1,10 @@
+C:\FAL\ResxEditor\ResxEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\FAL\ResxEditor\ResxEditor\bin\ResxEditor.dll
+C:\FAL\ResxEditor\ResxEditor\bin\ResxEditor.pdb
+C:\FAL\ResxEditor\ResxEditor\obj\Debug\ResxEditor.dll
+C:\FAL\ResxEditor\ResxEditor\obj\Debug\ResxEditor.pdb
+C:\FAL\ResxEditor\ResxEditor\bin\en\ResxEditor.resources.dll
+C:\FAL\ResxEditor\ResxEditor\obj\Debug\ResxEditor.App_Data.Guide.aspx.resources
+C:\FAL\ResxEditor\ResxEditor\obj\Debug\ResxEditor.App_Data.Guide.aspx.en.resources
+C:\FAL\ResxEditor\ResxEditor\obj\Debug\ResxEditor.csproj.GenerateResource.Cache
+C:\FAL\ResxEditor\ResxEditor\obj\Debug\en\ResxEditor.resources.dll

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SqlRepository>
+
+    <SqlItem Title="First Test - Count(*)">
+        <Text>Das erste Statement! Hier kann eine kurze Erklärung rein.</Text>
+        <Command>SELECT COUNT(*) FROM Newsletter</Command>
+        <ReturnType>Int32</ReturnType>
+    </SqlItem>
+
+    <SqlItem Title="Top 10 - Newsletter Table">
+        <Text>Ein zweites Statement für eine Tabellen Ausgabe</Text>
+        <Command>SELECT TOP 10 *  FROM Newsletter</Command>
+        <ReturnType>DataTable</ReturnType>
+    </SqlItem>
+
+</SqlRepository>

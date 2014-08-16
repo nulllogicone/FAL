@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Annotation">
+</Property><Property Name="Solution File" Value="C:\FAL\Annotation\Annotation.sln">
+</Property><Property Name="Date" Value="Donnerstag, 17. Juni 2010">
+</Property><Property Name="Time" Value="14:36">
+</Property></Properties><Event ErrorLevel="0" Project="Annotation" Source="Annotation\Annotation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Annotation" Source="Annotation\Annotation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GoogleChartGenerator" Source="..\GoogleChartGenerator\GoogleChartGenerator\GoogleChartGenerator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GoogleChartGenerator" Source="..\GoogleChartGenerator\GoogleChartGenerator\GoogleChartGenerator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Annotation.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Annotation.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Annotation" Source="Annotation\Annotation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GoogleChartGenerator" Source="..\GoogleChartGenerator\GoogleChartGenerator\GoogleChartGenerator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

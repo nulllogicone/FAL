@@ -1,0 +1,5 @@
+C:\FAL\FAL.Util\FAL.Util\bin\Debug\FAL.Util.dll
+C:\FAL\FAL.Util\FAL.Util\bin\Debug\FAL.Util.pdb
+C:\FAL\FAL.Util\FAL.Util\obj\Debug\ResolveAssemblyReference.cache
+C:\FAL\FAL.Util\FAL.Util\obj\Debug\FAL.Util.dll
+C:\FAL\FAL.Util\FAL.Util\obj\Debug\FAL.Util.pdb
